@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-# Welcome to [Your Name]'s GitHub Profile!
+# Welcome to jay7sir's GitHub Profile!
 
 ## 👋 About Me
 
-Hi there! I'm [Your Name], an enthusiastic Android Developer with a passion for creating intuitive and robust mobile applications. With experience in designing and implementing high-quality Android apps using Kotlin and Java, I enjoy solving complex problems and contributing to innovative projects.
+Hi there! I'm jay7sir, an enthusiastic Android Developer with a passion for creating intuitive and robust mobile applications. With experience in designing and implementing high-quality Android apps using Kotlin and Java, I enjoy solving complex problems and contributing to innovative projects.
 
 ### 🔧 Skills
 
@@ -14,11 +14,11 @@ Hi there! I'm [Your Name], an enthusiastic Android Developer with a passion for 
 - **APIs:** RESTful APIs, Retrofit, Room Database
 - **Design:** Material Design, UI/UX Principles, Custom Views
 
-### 📚 Projects
+<!--### 📚 Projects
 
 - **[Project Name 1](link-to-project):** A brief description of what this project does and the technologies used. Highlight any notable features or accomplishments.
 - **[Project Name 2](link-to-project):** Another project with a brief description. Include any unique aspects or technologies.
-- **[Project Name 3](link-to-project):** Continue to list projects that showcase your skills and interests.
+- **[Project Name 3](link-to-project):** Continue to list projects that showcase your skills and interests.-->
 
 ### 🌱 Current Focus
 
