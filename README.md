@@ -33,10 +33,10 @@ I'm currently working on improving my skills in [specific technology or area], a
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Twitter:** [Your Twitter Handle]
-- **Portfolio:** [Your Portfolio URL]
-- **Email:** [Your Email Address]
+- **LinkedIn:** 
+- **Twitter:** 
+- **Portfolio:** 
+- **Email:** 
 
 Feel free to browse my repositories, open issues, or contribute to any of my projects. I'm always open to collaboration and feedback. Thanks for visiting!
 
