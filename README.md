@@ -22,14 +22,13 @@ Hi there! I'm jay7sir, an enthusiastic Android Developer with a passion for crea
 
 ### 🌱 Current Focus
 
-I'm currently working on improving my skills in [specific technology or area], and I'm excited about exploring new ways to leverage [related technology or framework] in Android development.
+I'm currently working on improving my skills in Android app, and I'm excited about exploring new ways to leverage oop in Android development.
 
 ### 🛠️ My Development Setup
 
 - **IDE:** Android Studio
 - **Version Control:** Git
-- **Design Tools:** [e.g., Figma, Sketch]
-- **CI/CD:** [e.g., GitHub Actions, Jenkins]
+- **Design Tools:** Figma
 
 ### 📫 Connect With Me
 
